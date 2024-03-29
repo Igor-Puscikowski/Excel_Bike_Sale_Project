@@ -11,7 +11,7 @@ This repository contains a dataset and analysis focused on bike sales, aiming to
 
 ## Data Set Description
 The dataset includes the following columns:
-
+- ID: An identifier for each individual, likely unique to each person in the dataset.
 - Marital Status: Indicates the marital status of individuals.
 - Gender: Specifies the gender of individuals.
 - Income: Reflects the yearly income of individuals.
